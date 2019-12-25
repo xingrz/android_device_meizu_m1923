@@ -1,0 +1,2 @@
+add_lunch_combo omni_m1923-eng
+add_lunch_combo omni_m1923-userdebug
